@@ -97,7 +97,69 @@ Expert in cloud deployment, DevOps practices, and delivering high-performance so
 
 ## 🚀 Featured Projects
 
-*More projects coming soon! Check out my repositories for the latest work.*
+### 🐾 Pet Profile Drawer
+**Production-ready SPA with advanced pet management features**
+
+A production-ready Single Page Application featuring searchable client/pet lists, dynamic right-side drawer UI, inline pet editing, photo uploads, vaccination management, optimistic API updates, and full test coverage. Built with modern React patterns and comprehensive testing.
+
+**Tech Stack:** `TypeScript` `React` `React Query` `TailwindCSS` `Jest` `Cypress`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/Pet-Profile-Drawer)
+
+---
+
+### 🤖 Smart Meeting Summary Generator
+**AI-powered enterprise meeting analysis system**
+
+A production-grade AI system that analyzes long-form meeting transcripts (20-30 minutes) and extracts verified decisions, action items, and discussion themes with strong hallucination controls. Designed for enterprise use with focus on traceability and correctness.
+
+**Tech Stack:** `Python` `AI/ML` `NLP` `Enterprise Architecture`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/Smart-Meeting-Summary-Generator)
+
+---
+
+### 💬 Case Study - AI Chatbot Platform
+**Modern production-ready AI chatbot with premium UI/UX**
+
+A modern, production-ready AI chatbot platform designed with a chat-first, user-experience-driven approach. Delivers a world-class chatbot UI/UX that feels fast, intuitive, and premium, powered by intelligent backend APIs.
+
+**Tech Stack:** `JavaScript` `React` `AI Integration` `Modern UI/UX`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/Case-Study)
+
+---
+
+### ⚙️ Task Orchestrator
+**Production-grade distributed task processing platform**
+
+A production-grade distributed task processing and API platform built with Python, FastAPI, and Clean Architecture principles. Designed for scalable, maintainable task orchestration and API management.
+
+**Tech Stack:** `Python` `FastAPI` `Clean Architecture` `Distributed Systems`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/task-orchestrator)
+
+---
+
+### 💼 Job Board Platform
+**Full-stack job board application**
+
+A complete full-stack job board platform built with modern web technologies. Features job listings, search functionality, and user management with a clean, responsive interface.
+
+**Tech Stack:** `TypeScript` `Next.js` `SQLite` `Full Stack`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/job-board)
+
+---
+
+### 📈 Auto Trading App
+**Automated trading application**
+
+An automated trading application built with Python, featuring algorithmic trading strategies and market analysis capabilities.
+
+**Tech Stack:** `Python` `Trading Algorithms` `Financial APIs`
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/auto_trading_app)
 
 ---
 
