@@ -132,11 +132,11 @@ A feature-rich task management system with project organization, team collaborat
 
 <div align="center">
   
-![Abhinav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api?username=abhinav-sys&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Abhinav's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-sys&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<img src="https://github-readme-streak-stats.demolab.com/?user=abhinav-sys&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
@@ -161,7 +161,7 @@ A feature-rich task management system with project organization, team collaborat
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-sys)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6C37?style=for-the-badge&logo=chrome&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -191,5 +191,3 @@ I'd love to hear from you! Let's discuss how I can bring value to your team and 
 *Last Updated: 2024*
 
 </div>
-#   a b h i n a v - s y s  
- 
