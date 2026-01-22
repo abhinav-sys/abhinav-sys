@@ -102,7 +102,7 @@ A comprehensive e-commerce platform featuring user authentication, product manag
 
 **Tech Stack:** `Python` `Django` `React` `PostgreSQL` `Stripe API` `AWS` `Docker`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/yourusername/ecommerce-platform) [![Live Demo](https://img.shields.io/badge/Live_Demo-View-FF6C37?style=flat-square&logo=chrome)](https://your-demo-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/ecommerce-platform)
 
 ---
 
@@ -113,7 +113,7 @@ A collaborative dashboard application enabling real-time data synchronization, l
 
 **Tech Stack:** `Node.js` `Express` `React` `Socket.io` `MongoDB` `Redis` `AWS`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/yourusername/collaboration-dashboard) [![Live Demo](https://img.shields.io/badge/Live_Demo-View-FF6C37?style=flat-square&logo=chrome)](https://your-demo-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/collaboration-dashboard)
 
 ---
 
@@ -124,7 +124,7 @@ A feature-rich task management system with project organization, team collaborat
 
 **Tech Stack:** `Python` `Flask` `React` `MongoDB` `JWT` `Docker` `CI/CD`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/yourusername/task-management) [![Live Demo](https://img.shields.io/badge/Live_Demo-View-FF6C37?style=flat-square&logo=chrome)](https://your-demo-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/task-management)
 
 ---
 
@@ -159,10 +159,10 @@ A feature-rich task management system with project organization, team collaborat
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.csrl2020@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-soni)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-sys)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6C37?style=for-the-badge&logo=chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6C37?style=for-the-badge&logo=chrome&logoColor=white)](https://github.com/abhinav-sys)
 
 </div>
 
@@ -179,8 +179,8 @@ I'm actively seeking opportunities to contribute to innovative projects and work
 
 I'd love to hear from you! Let's discuss how I can bring value to your team and help build amazing products.
 
-**📧 Reach out:** [your.email@example.com](mailto:your.email@example.com)  
-**💼 Connect on LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+**📧 Reach out:** [abhinav.csrl2020@gmail.com](mailto:abhinav.csrl2020@gmail.com)  
+**💼 Connect on LinkedIn:** [linkedin.com/in/abhinav-soni](https://www.linkedin.com/in/abhinav-soni)
 
 ---
 
@@ -188,6 +188,6 @@ I'd love to hear from you! Let's discuss how I can bring value to your team and 
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
-*Last Updated: 2024*
+*Last Updated: 2025*
 
 </div>
