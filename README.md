@@ -5,7 +5,9 @@
 Passionate Python Full Stack Developer specializing in building scalable web applications with MERN stack and Python backend.  
 Expert in cloud deployment, DevOps practices, and delivering high-performance solutions that drive business impact.
 
-📍 **Location:** India | 💼 **Open to Opportunities** | 🚀 **Available for Hire**
+📱 **+91 9634767581** | 📧 **abhinav.csrl2020@gmail.com** | 🔗 **github.com/abhinav-sys**  
+💼 **LinkedIn:** linkedin.com/in/abhinav-soni-9475661b5 | 📍 **Location:** Dehradun, Uttarakhand, India  
+🚀 **Open to Opportunities** | ✅ **Available for Hire**
 
 ---
 
@@ -160,7 +162,7 @@ A feature-rich task management system with project organization, team collaborat
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav.csrl2020@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-soni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-soni-9475661b5)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinav-sys)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6C37?style=for-the-badge&logo=chrome&logoColor=white)](https://github.com/abhinav-sys)
 
@@ -179,8 +181,10 @@ I'm actively seeking opportunities to contribute to innovative projects and work
 
 I'd love to hear from you! Let's discuss how I can bring value to your team and help build amazing products.
 
-**📧 Reach out:** [abhinav.csrl2020@gmail.com](mailto:abhinav.csrl2020@gmail.com)  
-**💼 Connect on LinkedIn:** [linkedin.com/in/abhinav-soni](https://www.linkedin.com/in/abhinav-soni)
+**📧 Email:** [abhinav.csrl2020@gmail.com](mailto:abhinav.csrl2020@gmail.com)  
+**📱 Phone:** +91 9634767581  
+**💼 LinkedIn:** [linkedin.com/in/abhinav-soni-9475661b5](https://www.linkedin.com/in/abhinav-soni-9475661b5)  
+**📍 Location:** Dehradun, Uttarakhand, India
 
 ---
 
