@@ -6,7 +6,7 @@ Passionate Python Full Stack Developer specializing in building scalable web app
 Expert in cloud deployment, DevOps practices, and delivering high-performance solutions that drive business impact.
 
 📱 **+91 9634767581** | 📧 **abhinav.csrl2020@gmail.com** | 🔗 **github.com/abhinav-sys**  
-💼 **LinkedIn:** linkedin.com/in/abhinav-soni-9475661b5 | 📍 **Location:** Dehradun, Uttarakhand, India  
+💼 **LinkedIn:** linkedin.com/in/abhinav-soni-9475661b5  
 🚀 **Open to Opportunities** | ✅ **Available for Hire**
 
 ---
@@ -97,36 +97,7 @@ Expert in cloud deployment, DevOps practices, and delivering high-performance so
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
-**Full-stack e-commerce solution with payment integration**
-
-A comprehensive e-commerce platform featuring user authentication, product management, shopping cart, and secure payment processing. Built with modern architecture for scalability and performance.
-
-**Tech Stack:** `Python` `Django` `React` `PostgreSQL` `Stripe API` `AWS` `Docker`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/ecommerce-platform)
-
----
-
-### 👥 Real-Time Collaboration Dashboard
-**Interactive dashboard with real-time updates**
-
-A collaborative dashboard application enabling real-time data synchronization, live updates, and multi-user collaboration. Features include WebSocket integration, real-time notifications, and interactive data visualization.
-
-**Tech Stack:** `Node.js` `Express` `React` `Socket.io` `MongoDB` `Redis` `AWS`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/collaboration-dashboard)
-
----
-
-### ✅ Task Management System
-**Productivity tool with advanced features**
-
-A feature-rich task management system with project organization, team collaboration, deadline tracking, and analytics. Includes drag-and-drop interface, file attachments, and comprehensive reporting.
-
-**Tech Stack:** `Python` `Flask` `React` `MongoDB` `JWT` `Docker` `CI/CD`
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/abhinav-sys/task-management)
+*More projects coming soon! Check out my repositories for the latest work.*
 
 ---
 
@@ -183,8 +154,7 @@ I'd love to hear from you! Let's discuss how I can bring value to your team and 
 
 **📧 Email:** [abhinav.csrl2020@gmail.com](mailto:abhinav.csrl2020@gmail.com)  
 **📱 Phone:** +91 9634767581  
-**💼 LinkedIn:** [linkedin.com/in/abhinav-soni-9475661b5](https://www.linkedin.com/in/abhinav-soni-9475661b5)  
-**📍 Location:** Dehradun, Uttarakhand, India
+**💼 LinkedIn:** [linkedin.com/in/abhinav-soni-9475661b5](https://www.linkedin.com/in/abhinav-soni-9475661b5)
 
 ---
 
